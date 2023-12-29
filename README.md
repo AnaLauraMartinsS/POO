@@ -2,7 +2,7 @@
 
 - Abstração - Extrair somente o que precisa do seu programa.
 
-- Encapsulamento - Proteger o seu programa
+- Encapsulamento - Proteger o seu programa.
 
 - Herança - Fazer uma classe herdar da outras atributos e métodos.
 
